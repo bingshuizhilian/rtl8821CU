@@ -1,3 +1,6 @@
+# added by bingshuizhilian
+Tenda W311MI driver for Linux.
+
 # rtl8821CU
 [![Build Status](https://travis-ci.org/whitebatman2/rtl8821CU.svg?branch=master)](https://travis-ci.org/whitebatman2/rtl8821CU)
 
